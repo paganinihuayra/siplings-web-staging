@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "files": {
+    "assets/app/icon-512.png": {
+      "size": 360564,
+      "sha256": "ece9a151f73f085e616ca2e59787671872efbf075e5f1377b1416fc69f8e445b"
+    },
+    "assets/app/icon-maskable-512.png": {
+      "size": 264963,
+      "sha256": "32ee096cc7fcf7bbdb769da2eccb3484dd4d5a85c14c5632a07081da8565b025"
+    },
+    "assets/app/splash.webp": {
+      "size": 289064,
+      "sha256": "3b9e00efac7769808d6577e1ecb9184cc20b6707da9ae7c7e99760913c30b09a"
+    },
+    "assets/eggs/breeding.webp": {
+      "size": 48474,
+      "sha256": "5b8706eef0eb96faa7df252f4bf4d6fca3dc9b048f07ebf341ccfd8eccc6cf04"
+    },
+    "assets/fx/glow-aurora.webp": {
+      "size": 48268,
+      "sha256": "246766f2ec52f16f977563b0eabdd41c3e275538e030fd027ac6af78c7c4e391"
+    },
+    "assets/fx/glow-candle.webp": {
+      "size": 38064,
+      "sha256": "e816896b58dce4cebd88626f33a8e1cd254dd67ec1f7325b9b4e2f15bca82470"
+    },
+    "assets/fx/glow-hearth.webp": {
+      "size": 38810,
+      "sha256": "9e057e7cb65f4a017021b2f1857ebf2793aa251f38ccf443bf20ef1345559652"
+    },
+    "assets/fx/glow-lamp.webp": {
+      "size": 42314,
+      "sha256": "30c6988676c10e28047557769a05363a5ce6209508a8920a68e2ea4e5ce8c6e5"
+    },
+    "assets/fx/glow-string-light.webp": {
+      "size": 31516,
+      "sha256": "04ea32fc0554a7ab93d9199ae8f96d8222a0200ab304cd7a141d872a1e186b11"
+    },
+    "assets/fx/glow-window.webp": {
+      "size": 42244,
+      "sha256": "c6d42c9d573a877f9fd17c908e4c2406ae6da85abd489513d410147ad4ddd11b"
+    },
+    "assets/fx/particle-bubble.webp": {
+      "size": 51020,
+      "sha256": "c1a813201de88ded912414466513be69d6b3c9a8aa8cdd8a0440382c7ec9cda2"
+    },
+    "assets/fx/particle-confetti.webp": {
+      "size": 34786,
+      "sha256": "f554bc412c1893bd39f388717171471d2e714afc9283a9159360f502dad3b71e"
+    },
+    "assets/fx/particle-glow.webp": {
+      "size": 36324,
+      "sha256": "342b1079ffc960eea8f485231e1d7bad5ea6a5d8ce3410d6d0425aa8066fac17"
+    },
+    "assets/fx/particle-heart.webp": {
+      "size": 16592,
+      "sha256": "a44c6efd05104bc9cdcbb158e92bc74388eed5ef09f64fa27eb97daf3ef98292"
+    },
+    "assets/fx/particle-leaf.webp": {
+      "size": 21846,
+      "sha256": "b399c5edc9fd191cc531b6b3f0a26627c38249a462c93230b2f22cbc95fbe770"
+    },
+    "assets/fx/particle-sparkle.webp": {
+      "size": 29098,
+      "sha256": "b67f1ab38fa2b0c8f5e57844bd2aafb1675e5de5096e41a3546479e8b9bd54ef"
+    },
+    "assets/fx/particle-star.webp": {
+      "size": 46290,
+      "sha256": "fb22fcf5ec3a6835707605757d55414cf30cad55ea6d5a4504d254c5b30fa3d7"
+    },
+    "assets/fx/particle-z.webp": {
+      "size": 33902,
+      "sha256": "e71bec22ccd7a4de1e55f0be7fca3ac985b39ba4d1d60ddea1c3878e6855aa4f"
+    },
+    "assets/homes/beer/backdrop.webp": {
+      "size": 286566,
+      "sha256": "67b35205d792643cbb20a1a910eefe4724d1d5d3bc8214e8b0c73f8c70cbaf4e"
+    },
+    "assets/homes/beer/bed.webp": {
+      "size": 39866,
+      "sha256": "f61e0de486c28d0dad35bba03e8321d27e7b2696cf874322caa8ae3983eda832"
+    },
+    "assets/homes/beer/flooring.webp": {
+      "size": 148578,
+      "sha256": "faebc335978bebb37ddb671f48a2859b25cb4fde21819a9aeecbb9feedf94b27"
+    },
+    "assets/homes/beer/wallpaper.webp": {
+      "size": 173778,
+      "sha256": "0e1c69a74e385eb06240e59f52aa12d281bf112d81b047a9dc8a6289e7262577"
+    },
+    "assets/homes/gin/bed.webp": {
+      "size": 57512,
+      "sha256": "3fb62f5d7e0bda3c93544741a3f02300863bf2657e3ffe2a3ab46f1fecbf23ef"
+    },
+    "assets/homes/rum/bed.webp": {
+      "size": 47656,
+      "sha256": "2d032e350676d8dd24e3177c5942026cdd94a02feea0757d032c5b241a7281bc"
+    },
+    "assets/homes/rum/wallpaper.webp": {
+      "size": 182878,
+      "sha256": "d7126ccc0e81e0b4f37253823a44c87b89dcb68e24ea8561f55cb3ff45cedce0"
+    },
+    "assets/homes/tequila/bed.webp": {
+      "size": 50734,
+      "sha256": "ee153cf4b8224798a1f646b49e1ec82282c99fc1de7f57e6efc9f4ccc59d7315"
+    },
+    "assets/homes/vodka/backdrop.webp": {
+      "size": 171492,
+      "sha256": "14f2b08b38a634770ff4c4fe493699efff92897597ef6139cc796556c87bdbb0"
+    },
+    "assets/homes/vodka/bed.webp": {
+      "size": 39532,
+      "sha256": "498bf122032e0c4cf09d0dab53e724b6a2a7cc8689abeccfba1bf6847c8876d4"
+    },
+    "assets/homes/vodka/flooring.webp": {
+      "size": 268698,
+      "sha256": "a2c77a5f593d051bfdadf821fa65adf3ed48beb6fd5a3f143ff3f96b79e2c726"
+    },
+    "assets/homes/vodka/wallpaper.webp": {
+      "size": 424896,
+      "sha256": "71cf8153d07d5b39f3b903572de7f64017f1543c04c9dd337d31415c11a9d54c"
+    },
+    "assets/homes/whiskey/backdrop.webp": {
+      "size": 350948,
+      "sha256": "c798344b696d73354bdc6b75aebd484912d67f1506e0590f6d08a7142d10acb0"
+    },
+    "assets/homes/whiskey/bed.webp": {
+      "size": 39406,
+      "sha256": "2c594c56018bce77e54031412485affb7571787778d68785cf0dee6321d49d72"
+    },
+    "assets/homes/whiskey/flooring.webp": {
+      "size": 170892,
+      "sha256": "462df4778a4fa4dcdc164233d0580f8e53bd8f5b160ffcc5547b28b4097eb46e"
+    },
+    "assets/homes/whiskey/wallpaper.webp": {
+      "size": 191154,
+      "sha256": "1dd88b697e0fc71fb2fc317240fea3a04ec8580bed6b2a8d5c83b9291574c9cd"
+    },
+    "assets/homes/wine/backdrop.webp": {
+      "size": 226668,
+      "sha256": "8d3d0ba1b6cfede1e40d4ad4a152eb3848ca9ef6fda8cae6f792008d80912a02"
+    },
+    "assets/homes/wine/bed.webp": {
+      "size": 46416,
+      "sha256": "bbaf704807e257b1c0341f0670247a81fb720a4c18899b203c81fcd8a6601cfe"
+    },
+    "assets/items/barrel-stool.webp": {
+      "size": 9556,
+      "sha256": "8fe917ed8f9badcfc3c3cd79c5af0b5270d4291989b97bc2f4b705df9cb37865"
+    },
+    "assets/items/copper-kettle-fountain.webp": {
+      "size": 43396,
+      "sha256": "71953401389094b7a531bc8a3eb9fc5e320fcf0ba2dff23341e63783f40270e5"
+    },
+    "assets/items/cozy-round-rug.webp": {
+      "size": 38572,
+      "sha256": "15ed9b4a3e2d350a9759384cca4a9ea1b7d85113f1f0397402a5bd358a9a0c78"
+    },
+    "assets/items/floor-cushion.webp": {
+      "size": 10034,
+      "sha256": "1b4ac2b889d3ac3eaba44beb891487bb55280241d4953fc05701ae1fb2e611a2"
+    },
+    "assets/items/hop-vine-trellis.webp": {
+      "size": 33122,
+      "sha256": "c9a2e368ce66a43a0d90ece5ab3df445ec1709de4d2f78037f43efc892345215"
+    },
+    "assets/items/oak-floorboards.webp": {
+      "size": 112312,
+      "sha256": "768d5e68216fb07bfd86b765a3f3b188cb227c9a6f31ca62bc452ad8a48b2f54"
+    },
+    "assets/items/picnic-table.r90.webp": {
+      "size": 49190,
+      "sha256": "eb2e81ffe057fa7ec1d0779604595c2a3ddeb4870edf2d11ef786af813871d88"
+    },
+    "assets/items/picnic-table.webp": {
+      "size": 43432,
+      "sha256": "12aa9335527653c7eeef961df731d4fc97ab7ff28006119076de93a0fe2c2033"
+    },
+    "assets/items/potted-fern.webp": {
+      "size": 15540,
+      "sha256": "452b2edceed995f05e02e7efef3957365d0426231eefaeb687108700aea55d2e"
+    },
+    "assets/items/pretzel-basket.r90.webp": {
+      "size": 12404,
+      "sha256": "d62d41b134ffce696b7cb391c597a71222c2c1c6d26246bf45071df3248a9614"
+    },
+    "assets/items/pretzel-basket.webp": {
+      "size": 15124,
+      "sha256": "5c7f91b03414b31a81556379b3ff716dc04d72dde3435ffc541bbcbf9d1e2ffc"
+    },
+    "assets/items/reading-lamp.webp": {
+      "size": 8432,
+      "sha256": "3d1689b5e14e4eb5b1829ffe16f754c27f231374cc5405b22426c55b3ec7fdf8"
+    },
+    "assets/items/string-lights.webp": {
+      "size": 26042,
+      "sha256": "2d8215334e8bf387d20516624c92a03735a9e2e8e0d5326bc1cc1b9bd69045bf"
+    },
+    "assets/items/timber-plank-wallpaper.webp": {
+      "size": 100982,
+      "sha256": "26da6ea7c9a6b211e5367d5cb2fcd8e5c1b63e6bc8f9d4ec02eac1222e7a8090"
+    },
+    "assets/items/wooden-side-table.r90.webp": {
+      "size": 8510,
+      "sha256": "1d4b492c121b6b19546faa466244d28f26df8fc3b9691a3722f042b3be9b3641"
+    },
+    "assets/items/wooden-side-table.webp": {
+      "size": 9682,
+      "sha256": "072da348d8d0b84e2ef9f0ed951feead0a73443d956aacbc3b290f91dec86ced"
+    },
+    "assets/pets/beer/egg.webp": {
+      "size": 35762,
+      "sha256": "ad59dc1c6f4e0fa7b69a4efc7c715f1d0e526435a6346e2d2464e4a193e12ae2"
+    },
+    "assets/pets/beer/glass.webp": {
+      "size": 45822,
+      "sha256": "f70d2f931a72277dc8dc6f5742e420b6c134abf54cb14e6ebbf8b2b5ef1fd487"
+    },
+    "assets/pets/gin/egg.webp": {
+      "size": 30534,
+      "sha256": "ff239be30e0ebc60047064a39091574ad58c525cd0e5a0910fbc8c6a8016da37"
+    },
+    "assets/pets/gin/glass.webp": {
+      "size": 56072,
+      "sha256": "4a696bd2701069d5f6e7efe7393fb9cb453b780e4630f9e3325a1bb1219654e2"
+    },
+    "assets/pets/rum/egg.webp": {
+      "size": 35648,
+      "sha256": "30f74af296fa54c681a7793372d063132a2ca00000432c09e968a5d56e571b1e"
+    },
+    "assets/pets/rum/glass.webp": {
+      "size": 57612,
+      "sha256": "efe19bcf67e0176c9ee01050c866c81972714fd8302b4dc0fcac5a35724c3bd9"
+    },
+    "assets/pets/tequila/egg.webp": {
+      "size": 28934,
+      "sha256": "ce68a4ce7ccd5e66e3c98c559866fcbe196a37870f85408d7385c652787975d1"
+    },
+    "assets/pets/tequila/glass.webp": {
+      "size": 29572,
+      "sha256": "4cf4ef324860ff2de3f3a01b4a1af8ae059669a65b7fa774384596ec76fbd21b"
+    },
+    "assets/pets/vodka/egg.webp": {
+      "size": 34338,
+      "sha256": "a298fce8731080fb58c40b5e9293f4504a360894270e490bb987459ba7cd262f"
+    },
+    "assets/pets/vodka/glass.webp": {
+      "size": 32974,
+      "sha256": "7f08d42dc23c0dac2005d1b0a6a7e8b538d5fed1b29295d06fc6569fbf3e1394"
+    },
+    "assets/pets/whiskey/egg.webp": {
+      "size": 39142,
+      "sha256": "33981dc8de06e144b52ba0adcfcb81d199018a9d219de102f1632c272af5e42f"
+    },
+    "assets/pets/whiskey/glass.webp": {
+      "size": 53232,
+      "sha256": "0f431c921a69c27a9ba46cd07144718f301583c1bf35fce5929aba87f5106a4d"
+    },
+    "assets/pets/wine/egg.webp": {
+      "size": 34942,
+      "sha256": "64e6ff4a6a9cbbe7a4a02789daedfa7918a29360115a1ed15eb95cc0fbca3345"
+    },
+    "assets/pets/wine/glass.webp": {
+      "size": 32688,
+      "sha256": "644f4aa3dd689c3a9d5e6d66733dbed830dc84bed2421f3444eeefce7eeae42c"
+    },
+    "assets/town/buildings/beer.webp": {
+      "size": 89576,
+      "sha256": "3a0b28764a3364a2ef103b762c16a5e103a7919cdc41832860549a73229098a5"
+    },
+    "assets/town/buildings/gin.webp": {
+      "size": 104474,
+      "sha256": "e5b88cd1fcb4ae9bb56e1b93eb83c3c112386c0d539b2e4ef842131df89ba6e6"
+    },
+    "assets/town/buildings/rum.webp": {
+      "size": 104758,
+      "sha256": "96ef4e216775f0ae04963be5a8ac0fcfbf62cfc8247108b708428331757b96e7"
+    },
+    "assets/town/buildings/tequila.webp": {
+      "size": 87996,
+      "sha256": "5a004a3883dbc20feb3059990e6796e1032ac91a9607721bd03baa354a7e7284"
+    },
+    "assets/town/buildings/vodka.webp": {
+      "size": 82272,
+      "sha256": "c9ecfe12fb9fc9b703c0cb303bf1ac5ec349a987ba4c8ec9051974d1027ff82d"
+    },
+    "assets/town/buildings/whiskey.webp": {
+      "size": 91618,
+      "sha256": "9b699d8d8322df070270c2d39bb3240713c416411b40ff9b792c3cab4d842d3a"
+    },
+    "assets/town/buildings/wine.webp": {
+      "size": 100686,
+      "sha256": "e83a5f696e78762072e7a4bd042d0749d7b2541e8b3cabbe4cdc1f7533b87f58"
+    },
+    "assets/town/decor/town-bench.webp": {
+      "size": 51092,
+      "sha256": "52a8bd437d530e989011754350b5b1dc3a56f29b5e4a1ce9b4a40ba1b6c595bc"
+    },
+    "assets/town/decor/town-breeding-nest.webp": {
+      "size": 57962,
+      "sha256": "b9675288ae3bcb0e12a863e5a11c3fc75beff0910f72948a66b0c1a2110f18f1"
+    },
+    "assets/town/decor/town-bush.webp": {
+      "size": 67758,
+      "sha256": "3ead2875d804d055da19a11c38385f7dc1bbea48029453bd7a5dbb58b46e58de"
+    },
+    "assets/town/decor/town-egg-plot.webp": {
+      "size": 69644,
+      "sha256": "ca2abe267f5227bc934b29fd5e3f433c7aac5d2d61c9a0fec16eb14362e6f92b"
+    },
+    "assets/town/decor/town-flower-bed.webp": {
+      "size": 82514,
+      "sha256": "700622381cb271a073b3968815db67e1ef48f9b161ccaad059c8ec40e0d0a6b0"
+    },
+    "assets/town/decor/town-friend-signpost.webp": {
+      "size": 46576,
+      "sha256": "49a32ce14710aee545eea232dba4080d104caa5ad5ce1010f1b912ba35a9efd7"
+    },
+    "assets/town/decor/town-lamp-post.webp": {
+      "size": 30244,
+      "sha256": "527abd0c8d6dc3f054e7b9e9d41665f84c95f231ed0560fc6dba8d9757a427a2"
+    },
+    "assets/town/decor/town-plaza.webp": {
+      "size": 70746,
+      "sha256": "3ada6c7407a2287465adf05d024a1f3924db612af6f11e46486a7a9acf764272"
+    },
+    "assets/town/decor/town-tree-pine.webp": {
+      "size": 41572,
+      "sha256": "ad4dc3cbabb7a09a6e21da80c1ba81aae4f3256af0c65c788a7cbea0f02d031b"
+    },
+    "assets/town/decor/town-tree-round.webp": {
+      "size": 51324,
+      "sha256": "08da1d083d36ccda4a5bf48204ee4378434f8584e726062c63e519c6b05a1a09"
+    },
+    "assets/town/tiles/tile-bridge.webp": {
+      "size": 68320,
+      "sha256": "05a58e604128ffa7c3640fd33660bad118f0dd22b7c146e8a74df4662d9c031b"
+    },
+    "assets/town/tiles/tile-fence-corner.webp": {
+      "size": 68308,
+      "sha256": "86a19639c9f91967971e5a95b7fb68d94707545062f2f1fe93a89fd7080076b9"
+    },
+    "assets/town/tiles/tile-fence.webp": {
+      "size": 65006,
+      "sha256": "fb234c2b278f812797b82cc082fca93c5fcd112220c3786d88735aee27c796e8"
+    },
+    "assets/town/tiles/tile-grass-flowers.webp": {
+      "size": 68080,
+      "sha256": "80eb94a275f562a84d7c6786c7193f20811b2b18c0694ae7c27601a093b8fdb1"
+    },
+    "assets/town/tiles/tile-grass.webp": {
+      "size": 64730,
+      "sha256": "967cc91aa9b1f2c9f895d399fed7c7d6af7e538bd7f87ca51af78470256e3bbe"
+    },
+    "assets/town/tiles/tile-path-corner.webp": {
+      "size": 68404,
+      "sha256": "9925969a49d87805fc706cd269b8a68dc6238a62d2433a6a5a95df89c11375c1"
+    },
+    "assets/town/tiles/tile-path-cross.webp": {
+      "size": 48592,
+      "sha256": "67b6f6088f3c88c1eb1286af6880a8db0aeb0624848f285fe8e73ce848b69640"
+    },
+    "assets/town/tiles/tile-path-end.webp": {
+      "size": 66830,
+      "sha256": "8d2a2bb1b51c0eb624034bf77fc22690396ba6af9991b1931d23b550652c341c"
+    },
+    "assets/town/tiles/tile-path-straight.webp": {
+      "size": 53422,
+      "sha256": "694972267b07383712727dc8121511d210e68c7ca0b85a59484dc08af0210944"
+    },
+    "assets/town/tiles/tile-water-corner.webp": {
+      "size": 60278,
+      "sha256": "1bfbbc754913e20ac44a11e9d777a1e60cc2840eb6c5745406c8e2370687a9ea"
+    },
+    "assets/town/tiles/tile-water-edge.webp": {
+      "size": 63238,
+      "sha256": "22071378a662a003f2d7afe542b8f34ec571b9dd2be8f67f2a0feb326bfc1ea5"
+    },
+    "assets/town/tiles/tile-water.webp": {
+      "size": 49494,
+      "sha256": "a603be3324880a39a7051c102ccf07d4f1cc4ccac26cb4040fb264100a3e52ab"
+    },
+    "assets/ui/currency/coasters.webp": {
+      "size": 10350,
+      "sha256": "011f95054b04fa07b22925ab4e0d1a8c7d084aa3cbbbc8fb3eafa1a63eb3266a"
+    },
+    "assets/ui/currency/golden-caps.webp": {
+      "size": 10114,
+      "sha256": "9e2ccc65f392623e5724d31bb7ac7cd1848d39ad7b4b4c6c3caa82c807faaa5d"
+    },
+    "assets/ui/logging/beer-bottle.svg": {
+      "size": 266,
+      "sha256": "d529284c6e77bf84725f080b3f31e11b8d37d6ff2304fa437ab1c081136d13a4"
+    },
+    "assets/ui/logging/beer-can.svg": {
+      "size": 269,
+      "sha256": "6a3eae454f5a7f2c648e8b986e89c9199da448481aec83b71b10ee31eb2d03c8"
+    },
+    "assets/ui/logging/beer-pint.svg": {
+      "size": 249,
+      "sha256": "e229ae3bb49be594e3ddc0fcedec62e6f80c39ac9376c5e29df2032975e3e652"
+    },
+    "assets/ui/logging/beer-tall.svg": {
+      "size": 252,
+      "sha256": "f8e1dc08fec8e24078667a08b26d7e967243bcb7f320a8043d81bb26e86a74af"
+    },
+    "assets/ui/logging/cocktail.svg": {
+      "size": 225,
+      "sha256": "2ea6915c6b6c0f2f25e68f155a5ce3c43046c4ac286548d023b41a6a8d9346e6"
+    },
+    "assets/ui/logging/spirit-balloon.svg": {
+      "size": 255,
+      "sha256": "fb0dd2a01fdd43d1d2317ee6be9e3084acec4d9709d79a8e01a6b1e19cb43571"
+    },
+    "assets/ui/logging/spirit-copita.svg": {
+      "size": 252,
+      "sha256": "aa54e336c89cc85da54b6e332b4a178475a757fd8c1bbba9053705fd393a2488"
+    },
+    "assets/ui/logging/spirit-highball.svg": {
+      "size": 231,
+      "sha256": "de78e7c4e6246a1f3aafe2e02aeb196d14e933daae4c772a303a6948283d0ca1"
+    },
+    "assets/ui/logging/spirit-rocks.svg": {
+      "size": 227,
+      "sha256": "904ff8ee40abfe8fc30db61f0a468ff13c170f38776db95ce5121be5ed15a5dc"
+    },
+    "assets/ui/logging/spirit-shot.svg": {
+      "size": 224,
+      "sha256": "b28a6136e2c61fef7adf75a012cd8cd092e3b89841c9728ed6efd86501107e75"
+    },
+    "assets/ui/logging/wine-flute.svg": {
+      "size": 242,
+      "sha256": "04d340dc79df005286e831fa9d92df656b88f341a0c3a1a841540f49d24cf5ad"
+    },
+    "assets/ui/logging/wine-glass.svg": {
+      "size": 247,
+      "sha256": "3f267da0fc40025b90740f8b244bd0eb9bb792c5e51ada13d002c03d21fdcfd6"
+    },
+    "assets/ui/logging/wine-large.svg": {
+      "size": 247,
+      "sha256": "dd9aa2970a4b6031393aaf984c1f4fe8d225ab8db71ca9ec320211a9887ace26"
+    },
+    "assets/ui/logging/wine-small.svg": {
+      "size": 250,
+      "sha256": "d765b90d99b6aa543fe286d17ebc3ac7cfbf857affa996f23ed473f8177ffcf8"
+    },
+    "assets/ui/moods/happy.svg": {
+      "size": 306,
+      "sha256": "742f5aea68b195b626a8be2ee7191e7d6de8d78aa5b007266008f824007bf2f5"
+    },
+    "assets/ui/moods/neutral.svg": {
+      "size": 255,
+      "sha256": "d519e8b660be2b951441aed9023c3f814f3a612eef34348915b11ce8f8a78e73"
+    },
+    "assets/ui/moods/sleepy.svg": {
+      "size": 257,
+      "sha256": "3c6e2879e8034d53578890a945e65288d1197b948d18514c423b1e9ba26b7228"
+    },
+    "assets/ui/stickers/cozy.webp": {
+      "size": 15752,
+      "sha256": "377bbb71be6b6f42a7f62e5167209718ce82e2b880263b0a4afd7555677bc7a0"
+    },
+    "assets/ui/stickers/heart.webp": {
+      "size": 11826,
+      "sha256": "bb104d544a6304b1ccf9a9935d3517f827cb4427be2d291f0423bbd1ab8b6fe8"
+    },
+    "assets/ui/stickers/partyPopper.webp": {
+      "size": 20142,
+      "sha256": "fe69dbacede2ee1a3dfb91769a35c589b16a00d0c5fc17f4d39699266da4db54"
+    },
+    "assets/ui/stickers/sparkle.webp": {
+      "size": 11528,
+      "sha256": "a929a88385a1ff75a904fa7f60ddef185a895395b32deac553fd16a7a2b6dd70"
+    },
+    "assets/ui/stickers/star.webp": {
+      "size": 13302,
+      "sha256": "4908d64247b8c551a9f431de97ed7f65a9d349398e9382d0ec78ae8a492c6cd4"
+    },
+    "assets/ui/stickers/wow.webp": {
+      "size": 18164,
+      "sha256": "5fb57aabc80eaefec525d8a6de5fee05f768b64cab7460fd18badc1be22b4ff9"
+    },
+    "assets/ui/streak/flame.webp": {
+      "size": 10888,
+      "sha256": "a6a03752e366ef74b1a2fa39ffae5735166d3acbd532d0a0dc1edda5f3e9a879"
+    },
+    "assets/ui/streak/grace-day.webp": {
+      "size": 12938,
+      "sha256": "1dbdffc28c67a6602d7032ef899a708d6509e711336374138a4daf36afc8e0fb"
+    },
+    "assets/ui/streak/resting.webp": {
+      "size": 13866,
+      "sha256": "d02884945c8e70cee08686a7ed3677e8c953d1c11063dd27790b0114d40765f1"
+    },
+    "assets/ui/tiers/tier-1.webp": {
+      "size": 14608,
+      "sha256": "30676dc04d5b01d2403611e35dd4e7a7472c6a051f98653c9ee05d977aeb4934"
+    },
+    "assets/ui/tiers/tier-2.webp": {
+      "size": 15442,
+      "sha256": "b3491fca9c4b01743172a8bc3b9d371a940e89498e892defa68271f89072c761"
+    },
+    "assets/ui/tiers/tier-3.webp": {
+      "size": 19534,
+      "sha256": "ed157476e2be9a01f2dc15e2f5eeee0225be39bd297bd7de90c27e665d3fbecc"
+    },
+    "assets/ui/tiers/tier-4.webp": {
+      "size": 21010,
+      "sha256": "1136c4048d7aa2628365aea9879629908e7770d88f1e42b351bd1c12a5deab09"
+    },
+    "assets/ui/tiers/tier-5.webp": {
+      "size": 21668,
+      "sha256": "25a6938bffa5c25ee9bace6a1fc2c941467d1ce3645f9faed191d4ad32fb3d71"
+    },
+    "assets/ui/tiers/tier-6.webp": {
+      "size": 24510,
+      "sha256": "37185f57c10954414ed10a6e57d4cfe1023f132f805c166cf73927c42058b01f"
+    }
+  }
+}
