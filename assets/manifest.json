@@ -209,6 +209,10 @@
       "size": 9682,
       "sha256": "072da348d8d0b84e2ef9f0ed951feead0a73443d956aacbc3b290f91dec86ced"
     },
+    "assets/pets/beer/beer.riv": {
+      "size": 287255,
+      "sha256": "d39e4e0dc4d0b2a84d393bef44956f9b6f460005af0a5e2ceb1574b54f61f2ee"
+    },
     "assets/pets/beer/egg.webp": {
       "size": 35762,
       "sha256": "ad59dc1c6f4e0fa7b69a4efc7c715f1d0e526435a6346e2d2464e4a193e12ae2"
@@ -216,6 +220,34 @@
     "assets/pets/beer/glass.webp": {
       "size": 45822,
       "sha256": "f70d2f931a72277dc8dc6f5742e420b6c134abf54cb14e6ebbf8b2b5ef1fd487"
+    },
+    "assets/pets/beer/rive/barrel.webp": {
+      "size": 104904,
+      "sha256": "32d219c253fd115d09bc877e13494964901380af3083ea094cdc86132149fbd8"
+    },
+    "assets/pets/beer/rive/bed.webp": {
+      "size": 118618,
+      "sha256": "fa77374f9e67cec446a4de455ac5a2842734c66d3c43117de669287503853ea4"
+    },
+    "assets/pets/beer/rive/egg.webp": {
+      "size": 97772,
+      "sha256": "1d23e3fa0e3d9dce6a3024f301e019ba83e740f8ed939e6eb881b27fb3506800"
+    },
+    "assets/pets/beer/rive/glass.webp": {
+      "size": 107086,
+      "sha256": "0634025d17db3fc1ecb332e66f0db8d2ebfe6a444ef5ccd6e6cd747c66dee8ee"
+    },
+    "assets/pets/beer/rive/heart.webp": {
+      "size": 93212,
+      "sha256": "d1f0bc2b2967686db02f3dcace0863ab6d81cd6e561a754e26891a4d08c4d891"
+    },
+    "assets/pets/beer/rive/s1-base.webp": {
+      "size": 390490,
+      "sha256": "1513d85b2d582d404e90aaab7278834ecb2d7a2e7250583f2725358f5db87768"
+    },
+    "assets/pets/beer/rive/sparkle.webp": {
+      "size": 115306,
+      "sha256": "c94d59c23936b6115e809e66c8781b0588aa0a43768f8a03e238f69e8e6a154e"
     },
     "assets/pets/gin/egg.webp": {
       "size": 30534,
