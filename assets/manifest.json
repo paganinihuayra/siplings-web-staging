@@ -89,9 +89,17 @@
       "size": 173778,
       "sha256": "0e1c69a74e385eb06240e59f52aa12d281bf112d81b047a9dc8a6289e7262577"
     },
+    "assets/homes/gin/backdrop.webp": {
+      "size": 357254,
+      "sha256": "82940a8542e161d5c7fe9896bf1ed23c20e3fcccdbf04bcc5208cab32aafca1e"
+    },
     "assets/homes/gin/bed.webp": {
       "size": 57512,
       "sha256": "3fb62f5d7e0bda3c93544741a3f02300863bf2657e3ffe2a3ab46f1fecbf23ef"
+    },
+    "assets/homes/rum/backdrop.webp": {
+      "size": 219404,
+      "sha256": "c473c341db3877bd69859102209ec14d8565041f12326190bdeadc9739e64c74"
     },
     "assets/homes/rum/bed.webp": {
       "size": 47656,
@@ -100,6 +108,10 @@
     "assets/homes/rum/wallpaper.webp": {
       "size": 182878,
       "sha256": "d7126ccc0e81e0b4f37253823a44c87b89dcb68e24ea8561f55cb3ff45cedce0"
+    },
+    "assets/homes/tequila/backdrop.webp": {
+      "size": 306212,
+      "sha256": "f8d2457e41adf5e779a87b5f7516de1ddfc3ba0662d3143cea939543ed3ee005"
     },
     "assets/homes/tequila/bed.webp": {
       "size": 50734,
@@ -145,9 +157,17 @@
       "size": 46416,
       "sha256": "bbaf704807e257b1c0341f0670247a81fb720a4c18899b203c81fcd8a6601cfe"
     },
+    "assets/items/barrel-stool.r90.webp": {
+      "size": 9542,
+      "sha256": "1bdd9ed2b62e1536c46626fc7fd66f55303150a1559a4eed8f422028950f4047"
+    },
     "assets/items/barrel-stool.webp": {
       "size": 9556,
       "sha256": "8fe917ed8f9badcfc3c3cd79c5af0b5270d4291989b97bc2f4b705df9cb37865"
+    },
+    "assets/items/copper-kettle-fountain.r90.webp": {
+      "size": 43072,
+      "sha256": "061dec740dbc7d8fe0143f01865653b1036419ebdfb054bed7347afd78f55f6a"
     },
     "assets/items/copper-kettle-fountain.webp": {
       "size": 43396,
@@ -160,6 +180,10 @@
     "assets/items/floor-cushion.webp": {
       "size": 10034,
       "sha256": "1b4ac2b889d3ac3eaba44beb891487bb55280241d4953fc05701ae1fb2e611a2"
+    },
+    "assets/items/hop-vine-trellis.r90.webp": {
+      "size": 33238,
+      "sha256": "a067ffed810f257232090f4aa76eee41a7d8e9672913a961a1f6f087e91523f6"
     },
     "assets/items/hop-vine-trellis.webp": {
       "size": 33122,
@@ -177,6 +201,10 @@
       "size": 43432,
       "sha256": "12aa9335527653c7eeef961df731d4fc97ab7ff28006119076de93a0fe2c2033"
     },
+    "assets/items/potted-fern.r90.webp": {
+      "size": 15526,
+      "sha256": "9697cc9b2cfb1f03bf422f7205efef8eef9126cb9fe5ac243695c517b16d4aa3"
+    },
     "assets/items/potted-fern.webp": {
       "size": 15540,
       "sha256": "452b2edceed995f05e02e7efef3957365d0426231eefaeb687108700aea55d2e"
@@ -188,6 +216,10 @@
     "assets/items/pretzel-basket.webp": {
       "size": 15124,
       "sha256": "5c7f91b03414b31a81556379b3ff716dc04d72dde3435ffc541bbcbf9d1e2ffc"
+    },
+    "assets/items/reading-lamp.r90.webp": {
+      "size": 8524,
+      "sha256": "649caf59e967bf0a1ec548497ebcb604261356f603555fb31c50b740e2c13f46"
     },
     "assets/items/reading-lamp.webp": {
       "size": 8432,
