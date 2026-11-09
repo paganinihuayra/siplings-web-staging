@@ -13,6 +13,102 @@
       "size": 289064,
       "sha256": "3b9e00efac7769808d6577e1ecb9184cc20b6707da9ae7c7e99760913c30b09a"
     },
+    "assets/backdrops/backdrop-autumn-harvest.webp": {
+      "size": 54316,
+      "sha256": "09c0c51b75959f70f27eb26561515ca68646911485fb8dad74bb14a6f7b04cc4"
+    },
+    "assets/backdrops/backdrop-birthday-balloons.webp": {
+      "size": 72924,
+      "sha256": "1ffe9a6801012d77fe435446e634589b8ec62f2ee0ccf74fb1ae9d2a5c7c0b72"
+    },
+    "assets/backdrops/backdrop-confetti-sky.webp": {
+      "size": 66572,
+      "sha256": "a559c2ba1b4dcc4dad2ab03d706971cfe1cf201c3e9a551b7a3d3c687513b6ad"
+    },
+    "assets/backdrops/backdrop-festival-tent.webp": {
+      "size": 85428,
+      "sha256": "5028bdf5e43147aa0abd2ca32c8b8a53ea36ab7053e60ad3bd3db9cfbca51531"
+    },
+    "assets/backdrops/backdrop-fiesta-plaza.webp": {
+      "size": 75910,
+      "sha256": "47c70bf1f0a60b39907eb8d26a5897840f3752d3963ce7de000fc0de78847646"
+    },
+    "assets/backdrops/backdrop-firework-sky.webp": {
+      "size": 64818,
+      "sha256": "ca6cb7a7473cccb6851669eb20a3252b014b2c18aea62385310627aa30d3a545"
+    },
+    "assets/backdrops/backdrop-golden-hour-hammocks.webp": {
+      "size": 45052,
+      "sha256": "0760188ef2bda30bfc53a05b6efd9f63d491b15d0ac68fbe86b13149746e8044"
+    },
+    "assets/backdrops/backdrop-harvest-moon.webp": {
+      "size": 67306,
+      "sha256": "0d6db2936d2e0670ddabe41e6b658a589dffe4d76dce2b8125714cc37c556bb4"
+    },
+    "assets/backdrops/backdrop-heart-garden.webp": {
+      "size": 50470,
+      "sha256": "ed202492ae19dafee009538f568a88405f612a537f89a677efd0cc58240ab1aa"
+    },
+    "assets/backdrops/backdrop-jazz-club.webp": {
+      "size": 66068,
+      "sha256": "34e1cce2287bd6fba0a451b6b2fbe09c356b5dc49db38edc1ad550933c33e37c"
+    },
+    "assets/backdrops/backdrop-lakeside-cookout.webp": {
+      "size": 70180,
+      "sha256": "d5bffe63f695253ca2ac4a883130af9678f02cf5259740e931691cc6f5517415"
+    },
+    "assets/backdrops/backdrop-lucky-clover-hills.webp": {
+      "size": 55642,
+      "sha256": "bf2f3b09522a92c6db044b142311326620a470a62509f9411f02f9e7fb08899d"
+    },
+    "assets/backdrops/backdrop-parade-night.webp": {
+      "size": 76782,
+      "sha256": "78b681f7b712363a2c9cd6993258690c683679669fb578ff4ff0600d53661aeb"
+    },
+    "assets/backdrops/backdrop-pet-party.webp": {
+      "size": 66480,
+      "sha256": "5775c93756208ef1c3878161d5884be91a34e332d19f86db1539d779ab57f146"
+    },
+    "assets/backdrops/backdrop-snowy-christmas-eve.webp": {
+      "size": 66906,
+      "sha256": "185e093a6313ce520019f50f61c4215e53a86df80a283f835852bc56b012da0f"
+    },
+    "assets/backdrops/backdrop-spotlight-beer.webp": {
+      "size": 84640,
+      "sha256": "4befee013dfe17abe9bf76282c9453fe6a53b3de6a2a50817012a27d17fe4b91"
+    },
+    "assets/backdrops/backdrop-spotlight-gin.webp": {
+      "size": 71692,
+      "sha256": "6f6a372c836da2a2ee48ccb1a686de7d5de34edd89da0628e8a96e1f30709378"
+    },
+    "assets/backdrops/backdrop-spotlight-rum.webp": {
+      "size": 57774,
+      "sha256": "f1d88c28e2553c6643bcb48374a762d5401769d3196a2e9b4484adefa2c956b7"
+    },
+    "assets/backdrops/backdrop-spotlight-tequila.webp": {
+      "size": 96554,
+      "sha256": "07b094e3be722ea3ddc49488ce1b81b8224342b6fb9b62f3e73e151df9c80f28"
+    },
+    "assets/backdrops/backdrop-spotlight-vodka.webp": {
+      "size": 53320,
+      "sha256": "e451edf2ba00a8ba4255babcdbddad7580fc82eb215aa65c61c3e55938e87749"
+    },
+    "assets/backdrops/backdrop-spotlight-whiskey.webp": {
+      "size": 55952,
+      "sha256": "f3b219c19ee5a790152b6be00c4da6552833d4ba5bdd6c93086278ee4d9fcb18"
+    },
+    "assets/backdrops/backdrop-spotlight-wine.webp": {
+      "size": 101176,
+      "sha256": "7e2ce704d59f80c453fe251efbcf53c3e29816f81f297c679a71482b5a5b2e5c"
+    },
+    "assets/backdrops/backdrop-stadium-lights.webp": {
+      "size": 43828,
+      "sha256": "81ccaf1fb12b4a4c0f0cf5a0af0d609b8443a313596f6f98b3e2d75527fbef67"
+    },
+    "assets/backdrops/backdrop-starry-fireworks.webp": {
+      "size": 67986,
+      "sha256": "42464aef49574a71c10bad7f9bc7f98b575db3f7c0c90818bf1361d3f59112e5"
+    },
     "assets/eggs/breeding.webp": {
       "size": 48474,
       "sha256": "5b8706eef0eb96faa7df252f4bf4d6fca3dc9b048f07ebf341ccfd8eccc6cf04"
@@ -328,6 +424,18 @@
     "assets/pets/wine/glass.webp": {
       "size": 32688,
       "sha256": "644f4aa3dd689c3a9d5e6d66733dbed830dc84bed2421f3444eeefce7eeae42c"
+    },
+    "assets/pets/wine/props/grape-stomp.webp": {
+      "size": 58146,
+      "sha256": "b7a396dee07edfe0165d37334f30f2eba312baf84b0fb4b5a6e2a8feb346d450"
+    },
+    "assets/pets/wine/skins/s1-base.webp": {
+      "size": 201572,
+      "sha256": "5ac6ae19a06a96aabaf0ee4a509783ae8186cdd5400a1db8084943373c0e865d"
+    },
+    "assets/pets/wine/wine.riv": {
+      "size": 223701,
+      "sha256": "13f2e969fc5e62a977d98f43e6bd7caf0f66766e0b4aa72b99208100e635ccfb"
     },
     "assets/town/buildings/beer.webp": {
       "size": 89576,
