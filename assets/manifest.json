@@ -113,6 +113,94 @@
       "size": 48474,
       "sha256": "5b8706eef0eb96faa7df252f4bf4d6fca3dc9b048f07ebf341ccfd8eccc6cf04"
     },
+    "assets/events/banners/beerDay.webp": {
+      "size": 38440,
+      "sha256": "c8aa1965170070bfff824f779164c33fbe0dd56c4448b4a4f180f973817f3d67"
+    },
+    "assets/events/banners/bigGameSunday.webp": {
+      "size": 26108,
+      "sha256": "74c33686fdcdc926a8c5ace3dba8d04992aad957bf6fdded05c1f523261b1ba1"
+    },
+    "assets/events/banners/bourbonDay.webp": {
+      "size": 37374,
+      "sha256": "4aec53f721397ee0f3c5b8c7fd04ea431d71116bcc9e483825e2fed1b3a6c443"
+    },
+    "assets/events/banners/christmas.webp": {
+      "size": 34788,
+      "sha256": "cd287578ede4bfd22bc810480fa65ca665beff4c2de4a8753122248fe7f6657e"
+    },
+    "assets/events/banners/cincoDeMayo.webp": {
+      "size": 43542,
+      "sha256": "a2d80687e957838065612d2825a048507a4f0d756faa651ea5990a41c0055c8b"
+    },
+    "assets/events/banners/fourthOfJuly.webp": {
+      "size": 38622,
+      "sha256": "dd5ca5e980099d06c9fe77a8f3083afe100459dac4f6221b18f9344fbdded3b0"
+    },
+    "assets/events/banners/friendBirthday.webp": {
+      "size": 49676,
+      "sha256": "f1f66ca5c1a6f3b030b7fa91cf72ad9414fc792464b1db8d53e8b56266b46a37"
+    },
+    "assets/events/banners/ginDay.webp": {
+      "size": 41122,
+      "sha256": "a0850edd3871f8875535103008bb33e596531ac93e29d83b5ee873327603c73c"
+    },
+    "assets/events/banners/halloween.webp": {
+      "size": 42734,
+      "sha256": "226d30b9268e8b2a28f5b41638ede9f7f7f5d4ec450133e8cb686d0c651e5f5b"
+    },
+    "assets/events/banners/laborDayWeekend.webp": {
+      "size": 30556,
+      "sha256": "cdfbe0116acc4ee1fdd57e487e3e75d92e2a47edcce839b97a0df35190cd56ae"
+    },
+    "assets/events/banners/mardiGras.webp": {
+      "size": 47184,
+      "sha256": "2d776d05e6476dc7c654d57aa5b1b77c23ff44dd1e04ff58dba6282e0c74ba9f"
+    },
+    "assets/events/banners/memorialDayWeekend.webp": {
+      "size": 36228,
+      "sha256": "c05e6a3beaf2a67352867908916a959e6bf922591abb46186de50814fbad316c"
+    },
+    "assets/events/banners/newYearsEve.webp": {
+      "size": 36316,
+      "sha256": "c92b64a3304f233f6e2cf3bc375b16a23a080804770dc61e0a49c02505435b58"
+    },
+    "assets/events/banners/oktoberfest.webp": {
+      "size": 50758,
+      "sha256": "c96791b3b81f28b79ef6f106508f108fcad97ded617ffb434ef229392442b1f3"
+    },
+    "assets/events/banners/repealDay.webp": {
+      "size": 39306,
+      "sha256": "b173bbaea2463df305cf1d8d3845d34408ada3439199a8213b64b73b81aafcc8"
+    },
+    "assets/events/banners/rumDay.webp": {
+      "size": 35442,
+      "sha256": "182c02546800b6b0578965071e45f2994ac474559d0928803ec9907edc324dec"
+    },
+    "assets/events/banners/stPatricks.webp": {
+      "size": 28298,
+      "sha256": "46568575ce21fda30f4be5e19ac820575b627706df4056b5015e2b9732da1b17"
+    },
+    "assets/events/banners/tequilaDay.webp": {
+      "size": 56862,
+      "sha256": "08c7c3d0ff0acae933480c92abbd10e840a39ecf55fcd12ce0591049a4b74581"
+    },
+    "assets/events/banners/thanksgiving.webp": {
+      "size": 36318,
+      "sha256": "9b644fe173fae80ef08c19c1532426acaf0bcec4d02bf78975e9d825e71f67da"
+    },
+    "assets/events/banners/valentines.webp": {
+      "size": 31362,
+      "sha256": "4ce9a74552d39102c127c250921d86fce7d7e95bf2d369325f8acd3ed59f23a6"
+    },
+    "assets/events/banners/vodkaDay.webp": {
+      "size": 32896,
+      "sha256": "22170c62077efef23a3b4c6a2cedfe661b21919809ade39a333cee66cd6e0e17"
+    },
+    "assets/events/banners/wineDay.webp": {
+      "size": 52240,
+      "sha256": "e99255a68aa91a461e95e00dce605ec7bf34466241820cced516ea5510f87bd2"
+    },
     "assets/fx/glow-aurora.webp": {
       "size": 48268,
       "sha256": "246766f2ec52f16f977563b0eabdd41c3e275538e030fd027ac6af78c7c4e391"
@@ -553,6 +641,98 @@
       "size": 49494,
       "sha256": "a603be3324880a39a7051c102ccf07d4f1cc4ccac26cb4040fb264100a3e52ab"
     },
+    "assets/ui/badges/birthdayStar.webp": {
+      "size": 32228,
+      "sha256": "78419cf688a4905414e3a1c04e087138696896f4e9aa89ed16d63367f6e9cf29"
+    },
+    "assets/ui/badges/familyResemblance.webp": {
+      "size": 32460,
+      "sha256": "b4e75289a15293104d86809f9f208d970042edd1087c94a2405e27ecf66ae73d"
+    },
+    "assets/ui/badges/firstDecor.webp": {
+      "size": 32980,
+      "sha256": "fde03a4b39f3139bd4375a2fc4625d41c67a3247c110a2125a631b4af9eb1c29"
+    },
+    "assets/ui/badges/firstFriend.webp": {
+      "size": 34452,
+      "sha256": "e7d19abfe5fd46eeac5d4ca468dbf8ea7cbf1442826d1338cd9ef7e8aa140d28"
+    },
+    "assets/ui/badges/firstHybrid.webp": {
+      "size": 32144,
+      "sha256": "3617b65403704fb4e79bb23ba61921e99703fd382e12196cf4b23f4fc374484d"
+    },
+    "assets/ui/badges/firstLog.webp": {
+      "size": 32690,
+      "sha256": "8e516fe3892f75e0b627df229b6d62d357b645a85d7479bc637105a22a1defbf"
+    },
+    "assets/ui/badges/firstParty.webp": {
+      "size": 32536,
+      "sha256": "a36a4b39f66c97f99848217fc87ced8b68062ea9e1a8b075ad68dbf65c4f23be"
+    },
+    "assets/ui/badges/firstTrick.webp": {
+      "size": 32150,
+      "sha256": "f30d1675844b874ed16ccb416da6dd5bfd88c64fd6356822c2f099ef7777efdf"
+    },
+    "assets/ui/badges/firstVisit.webp": {
+      "size": 31934,
+      "sha256": "8cbb7b60364e69ef625f2bfe82a08f37da2bd74490b51e9f486b30bb321c7b7f"
+    },
+    "assets/ui/badges/foundingDay.webp": {
+      "size": 31558,
+      "sha256": "c004c5f32be7e21dec3f7b20e365631b64de32911561212d5328de317cac2130"
+    },
+    "assets/ui/badges/fullAlbum.webp": {
+      "size": 33758,
+      "sha256": "eb04b0fa91755a2abb98ea0b163018dd34a1a2753476cb90d6e48cbe874fd31d"
+    },
+    "assets/ui/badges/fullCalendar.webp": {
+      "size": 32882,
+      "sha256": "fc9807cead74456e293b7ec3448a919f9546fb142d9eb488d04eccc558910bbe"
+    },
+    "assets/ui/badges/goodFriend.webp": {
+      "size": 31912,
+      "sha256": "8e23f022d2e852dc4d07a34840982542ef8d6c23ca29ae6195962b2526ac7b95"
+    },
+    "assets/ui/badges/halfTheAlbum.webp": {
+      "size": 32748,
+      "sha256": "2d6cadf187442af85ad7083aec3f0c94e16ae5d32f655766d7566c3d4ffd5dad"
+    },
+    "assets/ui/badges/manyHappyReturns.webp": {
+      "size": 31398,
+      "sha256": "d68395805b1e6b4400fbad34b605de187ea691146264365101fabe069379d5c5"
+    },
+    "assets/ui/badges/partyAnimal.webp": {
+      "size": 32470,
+      "sha256": "9636115f094d8ccde90247a9d19b691fec26d5241a2730c5a4fab20ead2e616c"
+    },
+    "assets/ui/badges/returningGuest.webp": {
+      "size": 34228,
+      "sha256": "bbb2d9a1ba015a951b24b520c9db8dcdb29ede8833265b7dc8f3c376e3b3cd57"
+    },
+    "assets/ui/badges/sayHiWeek.webp": {
+      "size": 33944,
+      "sha256": "08bf8d7c264bad11c42d09c2a1f300dab20ec8a4b21bcd401905fea460664ffb"
+    },
+    "assets/ui/badges/spotlightTour.webp": {
+      "size": 31790,
+      "sha256": "3013ddcfa26904fb9ba920a24fe0c35db9c0e0a417533098a36aee5a9b49132c"
+    },
+    "assets/ui/badges/trickCollector.webp": {
+      "size": 32166,
+      "sha256": "da71b6cd037a94cf0685acfd9fc21505cb907a02b39a02ccc6db51d5f43ba785"
+    },
+    "assets/ui/badges/wellLoved100.webp": {
+      "size": 32800,
+      "sha256": "88cb4e0396a81c562eef5ce83666056945f33b767d2bd4bda22e26bbe4554c44"
+    },
+    "assets/ui/badges/wellLoved25.webp": {
+      "size": 32532,
+      "sha256": "a48deb4ce41b39160d3e280abf09296b519983e10acd60346e1db2397fcaf289"
+    },
+    "assets/ui/badges/wellLoved5.webp": {
+      "size": 31598,
+      "sha256": "f6bf7fe1da1bb4683ca6cc1f99de02ba786b634e42b64ed33e49b269ec9574d2"
+    },
     "assets/ui/currency/coasters.webp": {
       "size": 10350,
       "sha256": "011f95054b04fa07b22925ab4e0d1a8c7d084aa3cbbbc8fb3eafa1a63eb3266a"
@@ -628,6 +808,46 @@
     "assets/ui/moods/sleepy.svg": {
       "size": 257,
       "sha256": "3c6e2879e8034d53578890a945e65288d1197b948d18514c423b1e9ba26b7228"
+    },
+    "assets/ui/ranks/bar-crawler.webp": {
+      "size": 29142,
+      "sha256": "21fc0626a668623d88ec0c18479a559c16045a1383c3e29c31cdc0503bfdb4c4"
+    },
+    "assets/ui/ranks/british-geezer.webp": {
+      "size": 31024,
+      "sha256": "a0425ce97b51806390825bb941f9df0779e369942023df88cf9ef9ac70170e4d"
+    },
+    "assets/ui/ranks/business-casual.webp": {
+      "size": 28580,
+      "sha256": "715c9b3ce479fd07904bf1b8fab5d7a3d98262f8c4c73196b95c771b7682e278"
+    },
+    "assets/ui/ranks/college-student.webp": {
+      "size": 28932,
+      "sha256": "2a7d710535c94f41d96e8104d6f0cc98fb3c4e7bf67e238233efe23b27d12a85"
+    },
+    "assets/ui/ranks/day-drinker.webp": {
+      "size": 30986,
+      "sha256": "bb5b9ca0e91030479a030ed459fd545211a9c96ef932d4bfc1528f1efcf178ba"
+    },
+    "assets/ui/ranks/frat-bro.webp": {
+      "size": 28944,
+      "sha256": "5e2fbca8ec3985870c513d788249f63dde9f928c4d517da7c0a0515c2eaaa85a"
+    },
+    "assets/ui/ranks/last-call-legend.webp": {
+      "size": 37044,
+      "sha256": "d64302cf6e4d886f91f60c0408021b46fb975152ee2f586304841d811d55f064"
+    },
+    "assets/ui/ranks/networker.webp": {
+      "size": 30066,
+      "sha256": "6533cc88af37bc7a45c9ef0d4d4f2bb2946769823765758d850aae68937200b0"
+    },
+    "assets/ui/ranks/sober-curious.webp": {
+      "size": 30276,
+      "sha256": "bb91c168c5bc38066b8f92e0f0bbb8b57487f15c509a5a67986b6e2295a0cc12"
+    },
+    "assets/ui/ranks/teetotaler.webp": {
+      "size": 31190,
+      "sha256": "91efaccd45c8ca2c713383452fd4dfb17e604d06d0ebb65465d66d4c72911d0f"
     },
     "assets/ui/stickers/cozy.webp": {
       "size": 15752,
